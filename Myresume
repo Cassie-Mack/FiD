@@ -1,0 +1,62 @@
+<!doctype html>
+<html><br>
+
+<head>
+<meta charset="utf-8">
+<title>Resume Page</title>
+	<style>
+a:link {
+  color: palevioletred;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: paleturquoise;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: palegoldenrod;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: palegreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<center><img src="67928086_451212522385384_4048676541054320640_n.jpg" width="270" height="480" alt=""/></center>
+<title> Name </title>
+	<center><h1><h1 style="background-color:lightpink"><strong>Cassieanna Mackhrandilal</h1></h1></strong>cassisartco@gmail.com<br>407-505-9292
+	</center>
+<br><h2><h2 style="background-color:lightpink"> <strong>Skills:</strong></h2>
+	
+	<ul><ul><h2><strong>Traditional Sense</strong></h2>
+    <li>Postive</li>
+    <li>Productive
+  <li>Types 45 WPM</li>
+  <li>Proficient with PC </li>
+<li>Miscrosoft Office</li></ul>
+        </ul>	
+	<h2><h2 style="background-color:lightpink"><strong>Software/Hardware:</strong></h2></h2>
+<ol><ol><strong><h2>Digital Media</strong></h2>
+  <li>Digital Art</li>
+  <li>Procreate</li>
+  <li> Adobe Illustrator </li>
+  <li> Adobe Photoshop </li>
+  <li> Adobe Sketch </li>
+  <li>Paint Tool Sai </li></ol>
+<h2><h2 style="background-color:lightpink"><strong>Social Media/Web:</strong></h2></h2><h4>
+	<ahref="https://twitter.com/Cassisartco">Twitter</a><br><ahref="https://www.facebook.com/cassisartco/">Facebook</a><br>
+	<ahref="http://www.instagram.com/CassisArtCo">Instagram</a><br></h4>
+	
+<h2><h2 style="background-color:lightpink"><strong>Work Samples:</strong></h2></h2><h3>
+<ahref="https://drive.google.com/drive/folders/1oJ3n-UN1edISWvBVSwqJ1GNLol_qApyP?usp=sharing"> Traditional Work</ahref> + <ahref="https://drive.google.com/drive/u/1/folders/1e9g9ihYxPFjkP1sq-p6DO7YHtVPvRYs5?ths=true"> Digial Work</ahref></h3>
+</body>
+</html>
