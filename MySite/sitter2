@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Sitter 3</title>
+<style>
+body {
+  background-color: lightslategrey;
+  margin: 0 10%;
+  font-family: sans-serif;
+  text-align: center;
+  }
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #57b1dc;
+  margin-top: 30px;
+}
+	img {
+  border-radius: 70%;<br>
+	}
+ .button {
+  background-color: #57b1dc;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+border-radius: 50%;}
+}
+	
+
+</style>
+
+</head>
+
+<body>
+
+<h1>The Lizard Sitter</h1>
+<p><img src="https://raw.githubusercontent.com/Cassie-Mack/FiD/master/MySite/37960449_2091513430859309_2219552512032112640_n.jpg" width="600" height="600" alt="Sitter2"/><br> </p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<h1></h1>
+<img src="https://raw.githubusercontent.com/Cassie-Mack/FiD/master/MySite/5d273e911846a-IMG_ur7r5n.jpg" alt="Pup" width="200" height="200">
+	<a href="https://cassie-mack.github.io/FiD/MySite/sitter3.html"><img src="https://raw.githubusercontent.com/Cassie-Mack/FiD/master/MySite/cat-4756360_1920.jpg" alt="Kitty" width="200" height="200">
+<p><button class="button button">Contact</button><button class="button button">Home</button><button class="button button">Reviews</button></a></p>
+</body>
+</html>
